@@ -1,0 +1,34 @@
+body {
+    font-family: "Muli",sans-serif;
+}
+
+.container{
+    padding: 10px;
+    border: 1px solid #C70039;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    
+}
+.container .input{
+    width: 87%;
+    height: 20px;
+}
+.container .btn{
+    width: 50px;
+    height: 25px;
+}
+.container ul{
+    list-style: none;
+    padding: 0px;
+}
+.container li a {
+    float: right;
+    color: #a9d885;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container #error{
+    color: #0e0306;
+    font-size: 14px;
+}
